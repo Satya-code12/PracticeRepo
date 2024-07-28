@@ -17,11 +17,11 @@ const Home: React.FC <HomeProps> =(props)=>{
         WebkitTextFillColor : "transparent"
       }}>Dark Weather!</span>
       </p>
-      <div className="container flex justify-between mx-auto mt-10 2xl:px-12 xl:px-12 lg:px-12">
+      <div className="container flex justify-between mx-auto mt-10 2xl:px-12 xl:px-12 lg:px-12 ">
       <Search />
       <Filters />
       </div>
-      <div className="flex  container mx-auto justify-between mt-16 2xl:px-12 xl:px-12 lg:px-12 lg:gap-6">
+      <div className="flex  container mx-auto justify-between mt-16 2xl:px-12 xl:px-12 lg:px-12 lg:gap-6 ">
         <WeatherCard />
         <WeatherCard />
         <WeatherCard />

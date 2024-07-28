@@ -6,7 +6,7 @@ const Navbar = () =>{
       <div>
         <h1 className='text-[30px] font-semibold text-white'>Dark Weather</h1>
       </div>
-      <div className='flex justify-between gap-9 text-[20px] font-medium pt-2 text-white'>
+      <div className='flex justify-between gap-9 text-[20px] font-medium pt-2 text-white '>
         <p>Home</p>
         <p>Download App</p>
         <p>Contact us</p>

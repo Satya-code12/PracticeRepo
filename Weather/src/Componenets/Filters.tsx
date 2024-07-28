@@ -3,7 +3,7 @@ import React from "react";
 
 const Filters =()=>{
   return(
-    <div className=" h-[45px] w-[450px] bg-[#24343D] rounded-lg px-4 py-1">
+    <div className=" h-[45px] w-[450px] bg-[#24343D] rounded-lg px-4 py-1 ">
       <div className="flex justify-between h-full w-full">
       <p className="text-[20px] text-white">Filters</p>
       <select name="Weather" id="" className="rounded-lg bg-[#1F2D346E] border border-white text-white outline-none">
