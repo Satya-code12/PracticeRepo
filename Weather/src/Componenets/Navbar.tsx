@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () =>{
   return(
-    <nav className='container flex justify-between mx-auto 2xl:px-12 xl:px-12 lg:px-12'>
+    <nav className='container flex justify-between mx-auto lg:px-12 xl:px-12 2xl:px-12 '>
       <div>
         <h1 className='text-[30px] font-semibold text-white'>Dark Weather</h1>
       </div>
