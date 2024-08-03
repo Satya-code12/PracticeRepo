@@ -3,8 +3,6 @@ import { Navbar } from "../Componenets/Navbar";
 import { Search } from "../Componenets/Search";
 import { Filters } from "../Componenets/Filters";
 import { WeatherCard } from "../Componenets/WeatherCards";
-interface HomeProps{
-}
 
 const Home: React.FC <HomeProps> =(props)=>{
   return(
